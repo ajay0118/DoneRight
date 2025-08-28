@@ -10,7 +10,7 @@ function Header({ todos, onThemeToggle, isDarkTheme }) {
     <header className="header">
       <div className="header-top">
         <div className="header-content">
-          <h1>📝 Ajey's Todo App</h1>
+          <h1>📝 Ajey's DoneRight App</h1>
           <p>Organize your tasks, stay focused.</p>
         </div>
         <button 
